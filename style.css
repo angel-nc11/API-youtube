@@ -1,0 +1,17 @@
+main{
+  background-color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover{
+  background-color: #dc3545;
+  color: white;
+  border-bottom: #dc3545 2px solid;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+footer p{
+  margin: 0;
+  padding: 10px;
+  font-size: 14px;
+}
